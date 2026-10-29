@@ -1,6 +1,6 @@
 # Проект 3. Разбор журналов веб-сервера
 
-Участники: Barsbek (уровень <...>, блоки A, B, C)
+Участники: Barsbek, Nursultan, Kayratbek, Alihan, Bektur, Ainazik (уровень <...>, блоки A, B, C)
 
 ## Запуск (чистая Ubuntu, одной командой)
     ./run.sh
